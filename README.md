@@ -9,7 +9,6 @@ The paper can be found here: TBA
 
 *************
 File Overview
--------------
 *************
 
 Trout_LifeCycle_IPM.pdf 
