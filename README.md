@@ -9,27 +9,44 @@ The paper can be found here: TBA
 
 *************
 File Overview
+-------------
 *************
-In the list below, "X" replaces the string "HunderTroutIPM" that is shared by all code files. 
 
-Filename                                        Paper Sections           Paper Figures
--------------------------------------------------------------------------------------------------
+Trout_LifeCycle_IPM.pdf 
+	Figure 1                      
 
-Trout_LifeCycle_IPM.pdf                         -                        1
+HunderTroutIPM_IPM_Building.R
 
-X_IPM_Building.R                                -                        -
+HunderTroutIPM_IPM_Building_mO2Scenarios.R
 
-X_IPM_Building_mO2Scenarios.R                   -                        -
+HunderTroutIPM_BasicProjections.R
+	Sections 2.3.1, 2.3.2, & 3.1 
+	Figures 2 & S1.1                           
 
-X_BasicProjections.R                           2.3.1, 2.3.2, & 3.1       2 & S1.1                           
+HunderTroutIPM_SensitivityAnalysis_withStocking.R  
+	Sections 2.3.3 & 3.2 
+	Figures 3 & S1.2
 
-X_SensitivityAnalysis_withStocking.R           2.3.3 & 3.2               3 & S1.2
-X_ElasticityAnalysis_withStocking.R            2.3.3 & 3.2               S1.3a)
+HunderTroutIPM_ElasticityAnalysis_withStocking.R
+	Sections 2.3.3 & 3.2 
+	Figure S1.3a)
 
-X_SensitivityAnalysis_withoutStocking.R        2.3.3 & 3.2               3b)
-X_ElasticityAnalysis_withoutStocking.R         2.3.3 & 3.2               S1.3b)
+HunderTroutIPM_SensitivityAnalysis_withoutStocking.R  
+	Sections 2.3.3 & 3.2
+	Figure 3b)
 
-X_DiscreteHarvestScenarios.R                   2.3.4 & 3.3               4 & S1.4
+HunderTroutIPM_ElasticityAnalysis_withoutStocking.R 
+	Sections 2.3.3 & 3.2 
+	Figure S1.3b)
 
-X_ContinuousScenarios_mH&mO1.R                 2.3.4 & 3.3               5a) & S1.5
-X_ContinuousScenarios_mH&mO2.R                 2.3.4 & 3.3               5b) & S1.7
+HunderTroutIPM_DiscreteHarvestScenarios.R
+	Sections 2.3.4 & 3.3
+	Figures 4 & S1.4
+
+HunderTroutIPM_ContinuousScenarios_mH&mO1.R  
+	Sections 2.3.4 & 3.3
+	Figures 5a) & S1.5
+
+HunderTroutIPM_ContinuousScenarios_mH&mO2.R                 
+	Sections 2.3.4 & 3.3               
+	Figures 5b) & S1.7
